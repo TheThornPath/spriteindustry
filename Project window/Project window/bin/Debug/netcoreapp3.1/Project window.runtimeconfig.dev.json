@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\LemKa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\LemKa\\.nuget\\packages"
+    ]
+  }
+}

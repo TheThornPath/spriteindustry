@@ -1,0 +1,15 @@
+C:\Users\LemKa\source\repos\Project window\Project window\bin\Debug\netcoreapp3.1\Project window.exe
+C:\Users\LemKa\source\repos\Project window\Project window\bin\Debug\netcoreapp3.1\Project window.deps.json
+C:\Users\LemKa\source\repos\Project window\Project window\bin\Debug\netcoreapp3.1\Project window.runtimeconfig.json
+C:\Users\LemKa\source\repos\Project window\Project window\bin\Debug\netcoreapp3.1\Project window.runtimeconfig.dev.json
+C:\Users\LemKa\source\repos\Project window\Project window\bin\Debug\netcoreapp3.1\Project window.dll
+C:\Users\LemKa\source\repos\Project window\Project window\bin\Debug\netcoreapp3.1\Project window.pdb
+C:\Users\LemKa\source\repos\Project window\Project window\obj\Debug\netcoreapp3.1\Project window.csprojAssemblyReference.cache
+C:\Users\LemKa\source\repos\Project window\Project window\obj\Debug\netcoreapp3.1\Project_window.Form1.resources
+C:\Users\LemKa\source\repos\Project window\Project window\obj\Debug\netcoreapp3.1\Project window.csproj.GenerateResource.cache
+C:\Users\LemKa\source\repos\Project window\Project window\obj\Debug\netcoreapp3.1\Project window.AssemblyInfoInputs.cache
+C:\Users\LemKa\source\repos\Project window\Project window\obj\Debug\netcoreapp3.1\Project window.AssemblyInfo.cs
+C:\Users\LemKa\source\repos\Project window\Project window\obj\Debug\netcoreapp3.1\Project window.csproj.CoreCompileInputs.cache
+C:\Users\LemKa\source\repos\Project window\Project window\obj\Debug\netcoreapp3.1\Project window.dll
+C:\Users\LemKa\source\repos\Project window\Project window\obj\Debug\netcoreapp3.1\Project window.pdb
+C:\Users\LemKa\source\repos\Project window\Project window\obj\Debug\netcoreapp3.1\Project window.genruntimeconfig.cache
